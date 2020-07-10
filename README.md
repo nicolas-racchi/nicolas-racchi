@@ -1,4 +1,4 @@
-<div align=center><img src="./imnicolas.png"></img></div>
+<div align=center><img src="https://user-images.githubusercontent.com/48695862/87184026-8a322f00-c2e7-11ea-8c2e-15f5d5713f7e.png"></img></div>
 
 I'm an *Italian boy* 🇮🇹 studying **Automation Engineering**. I'm passionate about **Robotics** and **Machine Learning**, and I'm teaching myself **Web Development** through building side projects. You can read more things about me on **[my blog](https://www.nicolasracchi.com)**, where I share some interesting bits of what I'm currently working on. 
 
